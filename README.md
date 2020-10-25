@@ -13,7 +13,7 @@ Watch the promo video to learn more!
 
 ## How To Use
 
-MealSuggest can be accessed by visiting the following link:
+Hello Card can be accessed by visiting the following link:
 
 [https://hello-card.com](https://hello-card.com)
 
